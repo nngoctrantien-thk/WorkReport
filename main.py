@@ -7,7 +7,16 @@ from selenium.webdriver.common.by import By
 from activities import *
 from common import Common
 from service import Service
+from config import GEMINI_API_KEY
+from google import genai
 
+common.log("Starting the automation process.")
+common.log("Clean Up Log.")
+deleted = CleanupLogFilesActivity.execute(
+    log_directory="./logs",
+    retention_days=7
+)
+common.log(deleted)
 today = datetime.now().strftime("%Y-%m-%d")
 #today = (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d")
 user_name = "Nguyen Ngoc Tran Tien"
@@ -24,8 +33,6 @@ try:
     driver = OpenBrowserActivity.execute(url=url, profile_path=profile_path, headless=True)
     common = Common(driver)
     service = Service(common)
-    
-    common.log("Starting the automation process.")
     common.log("Browser opened successfully.")
     common.log(f"Title: {driver.title} | URL: {driver.current_url}")
 
@@ -54,10 +61,9 @@ try:
     if logged_in:
         excel = ExcelActivity(r"C:\Users\pc\Desktop\WorkReport.xlsx")
         data = excel.read_range("WRP", None, True)
-        common.log(f"Data rows loaded from Excel: {len(data)}")
-        user_report_xpath = f"//tr[td[normalize-space()='{user_name}']]//div[contains(@class,'report-col-content')]"
-        
-        if common.exists(user_report_xpath):
+        user_report_xpath = f"//tr[td[normalize-space()='{user_name}']]//div[contains(@class,'report-col-content')]" 
+        if common.exists(user_report_xpath) and data:
+            common.log(f"Data rows loaded from Excel: {len(data)}")
             common.click(user_report_xpath)
             common.log(f"Opened report modal for user: {user_name}")
             DelayActivity.execute(5)
@@ -96,7 +102,7 @@ try:
             common.log("Click 'Save Report' button executed.")
             service.click_ok_if_exists()
         else:
-            common.log(f"Could not find the report cell for user '{user_name}' on the webpage table.")
+            common.log(f"Could not find the report cell for user '{user_name}' on the webpage table or no data.")
 
     DelayActivity.execute(3)
     common.log("Script executed completed successfully.")
