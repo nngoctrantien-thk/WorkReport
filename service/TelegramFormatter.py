@@ -12,14 +12,46 @@ class TelegramFormatter:
         if isinstance(response, str):
             return response
 
+        if isinstance(response, bool):
+            return "True" if response else "False"
+
         if isinstance(response, (int, float)):
             return str(response)
 
         if isinstance(response, dict):
-            return json.dumps(response, ensure_ascii=False, indent=2)
+            return TelegramFormatter._format_dict(response)
 
         if isinstance(response, list):
-            return json.dumps(response, ensure_ascii=False, indent=2)
+            return TelegramFormatter._format_list(response)
 
-        # Selenium / object / class instance
         return f"[{response.__class__.__name__}] completed."
+
+
+    @staticmethod
+    def _format_dict(data):
+        lines = []
+        for k, v in data.items():
+            lines.append(f"{k}: {TelegramFormatter._short(v)}")
+        return "\n".join(lines)
+
+
+    @staticmethod
+    def _format_list(data):
+        return f"List[{len(data)} items]\n" + "\n".join(
+            f"- {TelegramFormatter._short(x)}" for x in data[:5]
+        )
+
+
+    @staticmethod
+    def _short(value):
+
+        if isinstance(value, dict):
+            return f"dict({len(value)})"
+
+        if isinstance(value, list):
+            return f"list({len(value)})"
+
+        if isinstance(value, str):
+            return value[:80]
+
+        return str(value)

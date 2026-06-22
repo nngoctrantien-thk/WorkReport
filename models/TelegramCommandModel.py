@@ -11,7 +11,15 @@ class TelegramCommandModel:
 
         action = GeminiModel.detect_activity(text)
 
-        if action["activity"] == "NONE":
-            return "Xin lỗi, tôi chưa có Activity phù hợp."
+        workflow = action.get("workflow", [])
 
-        return TelegramCommandModel.dispatcher.dispatch(action)
+        if not workflow:
+            return "Không tìm thấy workflow."
+        print(workflow)
+        # check NONE phải lấy phần tử đầu tiên
+        first_step = workflow[0]
+        
+        # if first_step.get("activity") == "NONE":
+        #     return "Xin lỗi, tôi chưa có Activity phù hợp."
+
+        return TelegramCommandModel.dispatcher.dispatch(workflow)

@@ -28,7 +28,7 @@ Các Activity hiện có:
 Nhiệm vụ:
 
 - Chỉ chọn đúng Activity có trong danh sách.
-- Nếu không có Activity phù hợp thì trả về:
+- Nếu không có Activity phù hợp thì trả:
 
 {{
     "activity": "NONE",
@@ -36,22 +36,8 @@ Nhiệm vụ:
 }}
 
 Chỉ trả về JSON hợp lệ.
-Không sử dụng ```json hoặc ``` để bao quanh.
+Không markdown.
 Không giải thích.
-
-Ví dụ:
-
-Người dùng:
-mở google
-
-Trả về:
-
-{{
-    "activity": "OpenBrowserActivity",
-    "params": {{
-        "url": "https://google.com"
-    }}
-}}
 
 Người dùng:
 {text}
@@ -59,37 +45,39 @@ Người dùng:
 
         try:
             response = GeminiModel.client.models.generate_content(
-                model="gemini-3.5-flash",
+                model="gemini-2.5-flash",
                 contents=prompt
             )
 
             result = (response.text or "").strip()
 
             if not result:
-                raise ValueError("Gemini trả về nội dung rỗng.")
+                return GeminiModel._none()
 
-            # Loại bỏ markdown nếu có
+            # remove markdown
             if result.startswith("```"):
                 lines = result.splitlines()
-
-                if lines and lines[0].startswith("```"):
-                    lines = lines[1:]
-
-                if lines and lines[-1].startswith("```"):
-                    lines = lines[:-1]
-
+                lines = [l for l in lines if not l.startswith("```")]
                 result = "\n".join(lines).strip()
 
-            return json.loads(result)
+            data = json.loads(result)
 
-        except json.JSONDecodeError:
-            print("Không parse được JSON từ Gemini:")
-            print(result)
+            # luôn normalize thành workflow
+            return {
+                "workflow": [data]
+            }
 
         except Exception as e:
-            print(f"Lỗi khi gọi Gemini: {e}")
+            print(f"Gemini error: {e}")
+            return GeminiModel._none()
 
+    @staticmethod
+    def _none():
         return {
-            "activity": "NONE",
-            "params": {}
+            "workflow": [
+                {
+                    "activity": "NONE",
+                    "params": {}
+                }
+            ]
         }

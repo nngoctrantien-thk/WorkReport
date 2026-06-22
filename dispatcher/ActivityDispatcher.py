@@ -6,17 +6,22 @@ class ActivityDispatcher:
     def __init__(self):
         self.registry = ActivityRegistry()
 
-    def dispatch(self, data):
+    def dispatch(self, workflow):
 
-        activity_name = data.get("activity")
+        context = {}
 
-        params = data.get("params", {})
+        for step in workflow:
 
-        activity = self.registry.get(activity_name)
+            activity_name = step.get("activity")
+            params = step.get("params", {})
 
-        if activity is None:
-            raise Exception(
-                f"Activity '{activity_name}' not found."
-            )
+            activity_class = self.registry.get(activity_name)
 
-        return activity.execute(**params)
+            if not activity_class:
+                raise Exception(f"Activity not found: {activity_name}")
+
+            result = activity.execute(context=context, **params)
+
+            context[activity_name] = result
+
+        return context

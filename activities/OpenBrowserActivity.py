@@ -66,5 +66,9 @@ class OpenBrowserActivity(BaseActivity):
 
         if url:
             driver.get(url)
+        else
+           url = ""
 
-        return driver
+        context["driver"] = driver
+
+        return f"Browser {url} opened successfully"
