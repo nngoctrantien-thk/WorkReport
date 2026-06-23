@@ -1,0 +1,536 @@
+2026-06-23 14:23:28,805 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:23:34,612 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:23:38,291 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:23:38,878 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:24:34,434 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:24:56,651 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:27:49,880 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:27:50,784 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:28:47,944 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:28:48,658 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:29:22,304 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:29:23,041 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:30:12,622 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:30:13,542 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:32:03,600 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:32:04,631 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:32:05,595 [INFO] service.ChromeManager : Close tab : Estimate QZIN-2199 - Google Sheets
+2026-06-23 14:32:45,420 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:32:46,183 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:33:37,932 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:34:01,647 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:37:11,154 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:37:34,561 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:37:42,297 [ERROR] service.ChromeManager : [ChromeManager] Không thể dò URL thật qua Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 14:44:23,576 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:44:35,094 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 14:50:58,943 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:51:14,979 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 14:51:19,677 [ERROR] service.ChromeManager : [ChromeManager] Không thể khởi chạy trình duyệt Chrome qua Selenium: Message: invalid argument
+  (Session info: chrome=149.0.7827.116)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce7726]
+	chromedriver!(No symbol) [0x7ff747cd3ba8]
+	chromedriver!(No symbol) [0x7ff747cd1ff5]
+	chromedriver!(No symbol) [0x7ff747cd2562]
+	chromedriver!(No symbol) [0x7ff747cebbe6]
+	chromedriver!(No symbol) [0x7ff747d901c4]
+	chromedriver!(No symbol) [0x7ff747d6a3ca]
+	chromedriver!(No symbol) [0x7ff747d8f39b]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 14:53:50,331 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:54:07,288 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 14:57:59,716 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 14:58:09,758 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:01:22,396 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:01:40,180 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:01:46,613 [ERROR] service.ChromeManager : [ChromeManager] Gặp lỗi khi khởi chạy trình duyệt: Message: invalid argument
+  (Session info: chrome=149.0.7827.116)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce7726]
+	chromedriver!(No symbol) [0x7ff747cd3ba8]
+	chromedriver!(No symbol) [0x7ff747cd1ff5]
+	chromedriver!(No symbol) [0x7ff747cd2562]
+	chromedriver!(No symbol) [0x7ff747cebbe6]
+	chromedriver!(No symbol) [0x7ff747d901c4]
+	chromedriver!(No symbol) [0x7ff747d6a3ca]
+	chromedriver!(No symbol) [0x7ff747d8f39b]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:06:25,552 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:06:40,702 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:07:03,165 [ERROR] service.ChromeManager : [ChromeManager] Gặp lỗi khi khởi chạy trình duyệt: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747d29024]
+	chromedriver!(No symbol) [0x7ff747d24559]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:09:38,873 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:09:50,752 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:10:37,601 [INFO] service.ChromeManager : [ChromeManager] Đã điều hướng thành công tới URL: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:12:01,940 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:12:02,462 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:12:09,036 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:12:13,981 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do URL không hợp lệ: '{GetChromeTabUrlActivity.url}'
+2026-06-23 15:14:40,008 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:14:40,380 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:14:41,799 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:14:46,468 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:15:16,170 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:15:16,604 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:15:17,852 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:15:21,670 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:17:42,066 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:17:42,435 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:17:43,991 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:17:47,676 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:20:27,749 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:20:28,179 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:20:29,204 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://local.tools.internal/mail
+2026-06-23 15:20:33,299 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://local.tools.internal/mail
+2026-06-23 15:20:34,274 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:20:34,625 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:20:35,720 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://local.tools.internal/mail
+2026-06-23 15:20:38,997 [ERROR] service.ChromeManager : [ChromeManager] Gặp lỗi khi khởi chạy trình duyệt: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747d29287]
+	chromedriver!(No symbol) [0x7ff747d24559]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:21:23,599 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:21:24,065 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:25:49,053 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:25:49,462 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:26:14,424 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:26:14,868 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:26:36,323 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:26:36,632 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:27:07,628 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:27:07,879 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:27:16,097 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:27:18,776 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity.url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-23 15:27:18,776 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:27:18,778 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://docs.google.com/spreadsheets/d/1y7beEMJ6ZRce7P8hxputr5jdFm4GGkN9cKpATG5wshY/edit?gid=1030480252#gid=1030480252
+2026-06-23 15:27:22,085 [ERROR] service.ChromeManager : [ChromeManager] Gặp lỗi khi khởi chạy trình duyệt: Message: session not created: Chrome failed to start: crashed.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Program Files\Google\Chrome\Application\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747d29287]
+	chromedriver!(No symbol) [0x7ff747d24559]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:31:57,872 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:31:58,285 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:31:59,383 [ERROR] service.ChromeManager : [ChromeManager] Lỗi khi chụp cửa sổ active bằng pywinauto: 'NoneType' object has no attribute 'save'
+2026-06-23 15:31:59,384 [ERROR] service.ChromeManager : [ChromeManager] Hạ tầng chụp ảnh OS thất bại hoàn toàn: No module named 'PIL'
+2026-06-23 15:34:29,569 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:34:29,985 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:34:31,126 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'Chatwork' thành công.
+2026-06-23 15:34:53,781 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:34:59,766 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'qzinunreadmailsend.php - qzin_jp [WSL: Ubuntu-22.04] - Visual Studio Code' thành công.
+2026-06-23 15:35:58,495 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:35:58,856 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:36:03,178 [WARNING] service.ChromeManager : [ChromeManager] Cổng Debug 9222 chưa bật hoặc lỗi kết nối Selenium: Message: session not created: cannot connect to chrome at 127.0.0.1:9222
+from unknown error: unrecognized Chrome version: Edg/149.0.4022.52; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747cb8440]
+	chromedriver!(No symbol) [0x7ff747cb8ad3]
+	chromedriver!(No symbol) [0x7ff747cb8931]
+	chromedriver!(No symbol) [0x7ff747cd7d5b]
+	chromedriver!(No symbol) [0x7ff747d2f48b]
+	chromedriver!(No symbol) [0x7ff747d23c6e]
+	chromedriver!(No symbol) [0x7ff747d785f1]
+	chromedriver!(No symbol) [0x7ff747d77e56]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 15:40:37,695 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:40:38,146 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:40:39,309 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-23 15:41:15,109 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:41:15,442 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:41:48,168 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:41:48,448 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:41:51,703 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:41:51,819 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:44:46,394 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:44:46,819 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:44:51,252 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:44:51,459 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:44:54,824 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'Tối ưu code Python - Google Chrome' thành công.
+2026-06-23 15:49:25,635 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:49:25,996 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:49:27,005 [INFO] activities.OpenWindowsAppActivity : [OpenApp] Đang cố gắng khởi chạy lệnh: ['github']
+2026-06-23 15:50:11,494 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:50:11,795 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:50:12,922 [INFO] activities.OpenWindowsAppActivity : [OpenApp] Đang cố gắng khởi chạy lệnh: ['zalo']
+2026-06-23 15:52:27,238 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:52:27,757 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:52:28,551 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:52:31,043 [INFO] activities.OpenWindowsAppActivity : [OpenApp] Tên ứng dụng 'zalo' không nằm trong PATH. Kích hoạt radar tự dò đường...
+2026-06-23 15:52:31,083 [INFO] activities.OpenWindowsAppActivity : [OpenApp] Radar đã tìm thấy vị trí cài đặt thật: C:\Users\pc\AppData\Local\Programs\Zalo\zalo.exe
+2026-06-23 15:55:09,122 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:55:09,509 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:55:11,780 [INFO] activities.CloseWindowsAppActivity : [CloseApp] Ứng dụng đang mở. Kích hoạt lệnh đóng: ['taskkill', '/F', '/IM', 'zalo.exe']
+2026-06-23 15:55:43,912 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:55:44,267 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:55:45,433 [INFO] activities.OpenWindowsAppActivity : [OpenApp] Tên ứng dụng 'zalo' không nằm trong PATH. Kích hoạt radar tự dò đường...
+2026-06-23 15:55:45,436 [INFO] activities.OpenWindowsAppActivity : [OpenApp] Radar đã tìm thấy vị trí cài đặt thật: C:\Users\pc\AppData\Local\Programs\Zalo\zalo.exe
+2026-06-23 15:58:35,490 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:58:35,963 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:58:38,252 [INFO] activities.CloseWindowsAppActivity : [CloseApp] Ứng dụng đang mở. Kích hoạt lệnh đóng: ['taskkill', '/F', '/IM', 'zalo.exe']
+2026-06-23 15:58:42,073 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:58:42,190 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 15:58:43,510 [INFO] activities.OpenWindowsAppActivity : [OpenApp] Tên ứng dụng 'zalo' không nằm trong PATH. Kích hoạt radar tự dò đường...
+2026-06-23 15:58:43,512 [INFO] activities.OpenWindowsAppActivity : [OpenApp] Radar đã tìm thấy vị trí cài đặt thật: C:\Users\pc\AppData\Local\Programs\Zalo\zalo.exe
+2026-06-23 15:58:46,843 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'Zalo Login' thành công.

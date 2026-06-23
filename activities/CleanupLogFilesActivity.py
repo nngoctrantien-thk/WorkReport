@@ -30,14 +30,14 @@ class CleanupLogFilesActivity:
     }
 
     EXAMPLES = [
-        "xóa log",
         "cleanup log",
-        "xóa log 30 ngày",
+        "cleanup log 30 ngày",
         "delete old logs"
     ]
 
     @staticmethod
     def execute(
+        context=None,
         retention_days=7,
         log_directory=LOG_DIRECTORY,
         pattern="*.log"

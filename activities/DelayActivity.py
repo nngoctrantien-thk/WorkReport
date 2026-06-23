@@ -1,13 +1,16 @@
 import time
+# Nếu hệ thống của bạn yêu cầu tất cả Activity phải kế thừa BaseActivity, 
+# hãy mở comment dòng dưới đây ra nhé:
+# from activities.BaseActivity import BaseActivity
 
 
-class DelayActivity:
+class DelayActivity: # hoặc class DelayActivity(BaseActivity):
 
     NAME = "DelayActivity"
 
     DESCRIPTION = """
     Tạm dừng chương trình trong một khoảng thời gian.
-    Thường dùng để chờ website tải, chờ API hoặc chờ giữa các bước tự động hóa.
+    Thường dùng để chờ website tải, chờ ứng dụng bung giao diện hoặc chờ giữa các bước tự động hóa.
     """
 
     PARAMETERS = {
@@ -26,7 +29,15 @@ class DelayActivity:
         "sleep 3 seconds"
     ]
 
+
     @staticmethod
-    def execute(seconds=1):
-        time.sleep(float(seconds))
-        return f"Waited {seconds} second(s)."
+    def execute(context=None, seconds=1, **kwargs):
+        try:
+            sec = float(seconds)
+        except (ValueError, TypeError):
+            sec = 1.0
+            seconds = 1
+
+        time.sleep(sec)
+        time.sleep(2)
+        return f"⏳ Đã tạm dừng hệ thống thành công trong {seconds} giây."

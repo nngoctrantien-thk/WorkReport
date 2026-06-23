@@ -8,6 +8,7 @@ from .ReadGoogleShetAppScriptActivity import ReadGoogleSheetAppScriptActivity
 from .CleanupLogFilesActivity import CleanupLogFilesActivity
 from .TelegramActivity import TelegramActivity
 from .CloseBrowserActivity import CloseBrowserActivity 
+from .CheckChromeTabsActivity import CheckChromeTabsActivity 
 __all__ = [
     "OpenBrowserActivity",
     "DelayActivity",
@@ -18,5 +19,6 @@ __all__ = [
     "ReadGoogleSheetAppScriptActivity",
     "CleanupLogFilesActivity",
     "TelegramActivity",
-    "CloseBrowserActivity"
+    "CloseBrowserActivity",
+    "CheckChromeTabsActivity"
 ]
