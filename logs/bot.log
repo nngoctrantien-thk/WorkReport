@@ -592,3 +592,131 @@ Stacktrace:
 2026-06-23 16:26:24,639 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
 2026-06-23 16:27:51,449 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
 2026-06-23 16:27:51,869 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:36:53,606 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:36:54,894 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:37:45,226 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:37:45,638 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:39:07,385 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:39:07,822 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:39:08,997 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://www.vietjetair.com
+2026-06-23 16:39:18,435 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://www.vietjetair.com
+2026-06-23 16:44:57,608 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:44:58,003 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:45:00,162 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://work-report.thk-hd.vn/report
+2026-06-23 16:45:03,402 [ERROR] service.ChromeManager : [ChromeManager] Gặp lỗi khi khởi chạy trình duyệt: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=149.0.7827.116)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747ce44ce]
+	chromedriver!(No symbol) [0x7ff747cd4711]
+	chromedriver!(No symbol) [0x7ff747cd657f]
+	chromedriver!(No symbol) [0x7ff747cd4cb3]
+	chromedriver!(No symbol) [0x7ff747cd447b]
+	chromedriver!(No symbol) [0x7ff747cd4131]
+	chromedriver!(No symbol) [0x7ff747cd1e01]
+	chromedriver!(No symbol) [0x7ff747cd2562]
+	chromedriver!(No symbol) [0x7ff747cebbe6]
+	chromedriver!(No symbol) [0x7ff747d901c4]
+	chromedriver!(No symbol) [0x7ff747d6a3ca]
+	chromedriver!(No symbol) [0x7ff747d8f39b]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 16:49:00,260 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:49:00,900 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:49:59,580 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:49:59,985 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:50:01,684 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://work-report.thk-hd.vn/report
+2026-06-23 16:50:04,923 [ERROR] service.ChromeManager : [ChromeManager] Gặp lỗi khi khởi chạy trình duyệt: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=149.0.7827.116)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747ce44ce]
+	chromedriver!(No symbol) [0x7ff747cd4711]
+	chromedriver!(No symbol) [0x7ff747cd657f]
+	chromedriver!(No symbol) [0x7ff747cd4cb3]
+	chromedriver!(No symbol) [0x7ff747cd447b]
+	chromedriver!(No symbol) [0x7ff747cd4131]
+	chromedriver!(No symbol) [0x7ff747cd1e01]
+	chromedriver!(No symbol) [0x7ff747cd2562]
+	chromedriver!(No symbol) [0x7ff747cebbe6]
+	chromedriver!(No symbol) [0x7ff747d901c4]
+	chromedriver!(No symbol) [0x7ff747d6a3ca]
+	chromedriver!(No symbol) [0x7ff747d8f39b]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 16:53:21,630 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:53:22,118 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:53:23,779 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://work-report.thk-hd.vn/report
+2026-06-23 16:53:27,163 [ERROR] service.ChromeManager : [ChromeManager] Gặp lỗi khi khởi chạy trình duyệt: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=149.0.7827.116)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7481a3fa5+14925]
+	chromedriver!GetHandleVerifier [0x7ff7481a4000+14980]
+	chromedriver!(No symbol) [0x7ff747ce793d]
+	chromedriver!(No symbol) [0x7ff747ce44ce]
+	chromedriver!(No symbol) [0x7ff747cd4711]
+	chromedriver!(No symbol) [0x7ff747cd657f]
+	chromedriver!(No symbol) [0x7ff747cd4cb3]
+	chromedriver!(No symbol) [0x7ff747cd447b]
+	chromedriver!(No symbol) [0x7ff747cd4131]
+	chromedriver!(No symbol) [0x7ff747cd1e01]
+	chromedriver!(No symbol) [0x7ff747cd2562]
+	chromedriver!(No symbol) [0x7ff747cebbe6]
+	chromedriver!(No symbol) [0x7ff747d901c4]
+	chromedriver!(No symbol) [0x7ff747d6a3ca]
+	chromedriver!(No symbol) [0x7ff747d8f39b]
+	chromedriver!(No symbol) [0x7ff747d3401c]
+	chromedriver!(No symbol) [0x7ff747d34f43]
+	chromedriver!GetHandleVerifier [0x7ff748787591+5f7f11]
+	chromedriver!GetHandleVerifier [0x7ff748781902+5f2282]
+	chromedriver!GetHandleVerifier [0x7ff7487a7115+617a95]
+	chromedriver!GetHandleVerifier [0x7ff7481c1dce+3274e]
+	chromedriver!GetHandleVerifier [0x7ff7481ca82c+3b1ac]
+	chromedriver!GetHandleVerifier [0x7ff7481ad744+1e0c4]
+	chromedriver!GetHandleVerifier [0x7ff7481ad8d4+1e254]
+	chromedriver!GetHandleVerifier [0x7ff748191447+1dc7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa0edce957+17]
+	ntdll!RtlUserThreadStart [0x7ffa0f407c1c+2c]
+
+2026-06-23 16:55:21,398 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:55:21,901 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:55:23,307 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
+2026-06-23 16:55:29,349 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
+2026-06-23 16:57:34,505 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:57:35,006 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:57:37,196 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
+2026-06-23 16:57:41,837 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
+2026-06-23 16:59:33,927 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:59:34,378 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 16:59:35,930 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
+2026-06-23 16:59:41,697 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
+2026-06-23 17:00:41,185 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:00:41,665 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:00:43,397 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
+2026-06-23 17:00:48,393 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23

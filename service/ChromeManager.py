@@ -584,14 +584,10 @@ class ChromeManager:
         options.add_argument("--remote-allow-origins=*")
         options.add_argument("--disable-gpu")
         options.add_argument("--start-maximized")
+        
+        # --- THÊM 2 DÒNG NÀY ĐỂ TRÁNH CRASH ---
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
-        options.add_argument("--hide-crash-restore-bubble")
-        options.add_argument("--disable-session-crashed-bubble")
-        options.add_argument("--no-first-run")
-        options.add_argument("--no-default-browser-check")
-        options.add_argument("--dont-trigger-profile-browser-signin-flow")
-
         prefs = {
             "profile.exit_type": "Normal",
             "profile.exited_cleanly": True
@@ -602,13 +598,12 @@ class ChromeManager:
             options.add_argument("--headless=new")
 
         # Quản lý Profile
-        profile = profile_path or CHROME_PROFILE_PATH
-        if profile:
-            if r"Microsoft\Edge" in str(profile):
-                profile = os.path.join(os.getcwd(), "cache", "chrome_profile")
-            os.makedirs(profile, exist_ok=True)
+        profile_path = r"C:\chrome-selenium-profile"
+        if not os.path.exists(profile_path):
+            os.makedirs(profile_path)
             options.add_argument(f"--user-data-dir={profile}")
-            options.add_argument("--profile-directory=Default")
+            options.add_argument("--profile-directory=AutomationProfile")
+        
 
         # Ép chạy đúng file thực thi Chrome
         chrome_binaries = [

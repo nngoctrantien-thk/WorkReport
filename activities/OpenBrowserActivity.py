@@ -1,9 +1,9 @@
-# from selenium import webdriver
-# from selenium.webdriver.chrome.options import Options
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
 
-# from activities.BaseActivity import BaseActivity
-# from config import CHROME_PROFILE_PATH
-# import os
+from activities.BaseActivity import BaseActivity
+from config import CHROME_PROFILE_PATH
+import os
 
 
 # class OpenBrowserActivity(BaseActivity):
@@ -125,7 +125,6 @@ class OpenBrowserActivity(BaseActivity):
         if not url and context and "last_extracted_url" in context:
             url = context["last_extracted_url"]
             print(f"[OpenBrowser] Tự động lấy URL từ bộ nhớ chung: {url}")
-            
         # Khởi tạo ChromeManager và ra lệnh mở
         manager = ChromeManager(context=context, user_id=user_id)
         manager.launch_browser(
