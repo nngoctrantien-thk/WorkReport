@@ -43,6 +43,7 @@ class OpenBrowserActivity(BaseActivity):
 
     @staticmethod
     def execute(
+        context=None,
         url=None,
         profile_path=None,
         headless=False
@@ -52,6 +53,10 @@ class OpenBrowserActivity(BaseActivity):
         options.add_argument("--remote-allow-origins=*")
         options.add_argument("--disable-gpu")
         options.add_argument("--start-maximized")
+        
+        # --- THÊM 2 DÒNG NÀY ĐỂ TRÁNH CRASH ---
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
 
         if headless:
             options.add_argument("--headless=new")
@@ -61,14 +66,17 @@ class OpenBrowserActivity(BaseActivity):
         if profile:
             os.makedirs(profile, exist_ok=True)
             options.add_argument(f"--user-data-dir={profile}")
+            # Mẹo: Nên chỉ định thêm một folder profile con để tránh chiếm dụng profile gốc của máy
+            # options.add_argument("--profile-directory=AutomationProfile")
 
         driver = webdriver.Chrome(options=options)
 
         if url:
             driver.get(url)
-        else
+        else:
            url = ""
 
-        context["driver"] = driver
+        if context is not None:
+            context["driver"] = driver
 
         return f"Browser {url} opened successfully"

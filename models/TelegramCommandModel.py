@@ -10,12 +10,10 @@ class TelegramCommandModel:
     def execute(text):
 
         action = GeminiModel.detect_activity(text)
-
         workflow = action.get("workflow", [])
 
         if not workflow:
             return "Không tìm thấy workflow."
-        print(workflow)
         # check NONE phải lấy phần tử đầu tiên
         first_step = workflow[0]
         
