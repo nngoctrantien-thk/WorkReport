@@ -329,7 +329,7 @@ class ChromeManager:
                             time.sleep(0.5)
                             win.click_input()
                             time.sleep(0.3)
-                            win.type_keys('^a^c') # Ctrl+A & Ctrl+C
+                            win.type_keys('^c') # Ctrl+A & Ctrl+C
                             time.sleep(0.5)
 
                             win32clipboard.OpenClipboard()
@@ -507,13 +507,13 @@ class ChromeManager:
                         if self._normalize(tab_item.window_text()) == self._normalize(tab.title):
                             win.set_focus()         
                             tab_item.click_input()  
-                            time.sleep(0.3)
+                            time.sleep(1)
                             win.click_input()       
-                            time.sleep(0.2)
+                            time.sleep(2)
                             
                             # Gửi tổ hợp phím lấy URL
                             win.type_keys('^l^c')
-                            time.sleep(0.4)
+                            time.sleep(0.5)
                             
                             # TỐI ƯU 3: Đọc dữ liệu Clipboard an toàn tuyệt đối bằng try...finally
                             win32clipboard.OpenClipboard()
@@ -550,17 +550,24 @@ class ChromeManager:
 
         # Nếu RAM trống, thử cứu vớt từ Clipboard hệ thống
         if not url and win32clipboard is not None:
-            try:
-                time.sleep(0.1)
-                win32clipboard.OpenClipboard()
-                clip_data = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
-                win32clipboard.CloseClipboard()
-                if clip_data:
-                    match = re.search(r'(https?://[^\s]+)', str(clip_data))
-                    if match:
-                        url = match.group(1).strip()
-            except Exception:
-                pass
+            web_text_content = ""
+            for retry in range(5):  # Thử lại tối đa 5 lần nếu Windows Clipboard bị nghẽn
+                try:
+                    win32clipboard.OpenClipboard()
+                    # Kiểm tra nghiêm ngặt xem định dạng text Unicode đã sẵn sàng trong Clipboard chưa
+                    if win32clipboard.IsClipboardFormatAvailable(win32clipboard.CF_UNICODETEXT):
+                        web_text_content = win32clipboard.GetClipboardData(win32clipboard.CF_UNICODETEXT)
+                        win32clipboard.CloseClipboard()
+                        if web_text_content.strip():
+                            break  # Lấy dữ liệu thành công -> Thoát vòng lặp
+                    else:
+                        win32clipboard.CloseClipboard()
+                except Exception:
+                    try:
+                        win32clipboard.CloseClipboard()
+                    except Exception:
+                        pass
+                time.sleep(0.2)
 
         # =================================================================
         # VŨ KHÍ 2: LỌC SẠCH CHỮ TIẾNG VIỆT BỊ DÍNH VÀO ĐUÔI SỐ URL (Ví dụ: 1030480252Xem)

@@ -1,0 +1,281 @@
+{
+    "tab_title": "Google Gemini",
+    "tab_url": "",
+    "analysis_mode": "compact",
+    "timestamp": "2026-06-24 13:48:18",
+    "is_fallback_text": false,
+    "dom_data": [
+        {
+            "tag": "div",
+            "text": "",
+            "attrs": {
+                "id": "gb",
+                "class": "gb_Na gb_Kd gb_Fb gb_e gb_9a gb_jd gb_K"
+            }
+        },
+        {
+            "tag": "a",
+            "text": "Sign in",
+            "attrs": {
+                "class": "gb_1a gb_3d gb_Ud gb_Ld gb_K",
+                "aria-label": "Sign in",
+                "href": "https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://gemini.google.com/app/eba5af47dfeb2637?is_sa%3D1%26is_sa%3D1%26android-min-version%3D301356232%26ios-min-version%3D322.0%26campaign_id%3Dbkws%26utm_source%3Dsem%26utm_medium%3Dpaid-media%26utm_campaign%3Dbkws%26pt%3D9008%26mt%3D8%26ct%3Dp-growth-sem-bkws%26gclsrc%3Daw.ds%26gad_source%3D1%26gad_campaignid%3D22165684207%26gbraid%3D0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE%26gclid%3DCjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE&followup=https://gemini.google.com/app/eba5af47dfeb2637?is_sa%3D1%26is_sa%3D1%26android-min-version%3D301356232%26ios-min-version%3D322.0%26campaign_id%3Dbkws%26utm_source%3Dsem%26utm_medium%3Dpaid-media%26utm_campaign%3Dbkws%26pt%3D9008%26mt%3D8%26ct%3Dp-growth-sem-bkws%26gclsrc%3Daw.ds%26gad_source%3D1%26gad_campaignid%3D22165684207%26gbraid%3D0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE%26gclid%3DCjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE&ec=GAZAkgU"
+            }
+        },
+        {
+            "tag": "script",
+            "text": "(function(){'use strict';var a=document.currentScript,b,c=(b=a==null?void 0:a.ge",
+            "attrs": {
+                "id": "bard-initial-data"
+            }
+        },
+        {
+            "tag": "chat-app-orchestrator",
+            "text": "About Gemini\nOpens in a new window\nGet Gemini App\nOpens in a new window\nSubscrip",
+            "attrs": {
+                "id": "app-root"
+            }
+        },
+        {
+            "tag": "a",
+            "text": "Gemini",
+            "attrs": {
+                "class": "side-nav-sparkle-button",
+                "aria-label": "New chat",
+                "href": "/"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger side-nav-sparkle-button mat-unthemed lm-enabled",
+                "aria-label": "Open sidebar"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger tts-button mat-unthemed ng-star-inserted",
+                "aria-label": "Listen"
+            }
+        },
+        {
+            "tag": "a",
+            "text": "About Gemini\nOpens in a new window",
+            "attrs": {
+                "class": "gds-label-l microsite ng-star-inserted",
+                "href": "https://gemini.google/about/?utm_source=gemini&utm_medium=web&utm_campaign=gemini_zero_state_link_to_marketing_microsite"
+            }
+        },
+        {
+            "tag": "a",
+            "text": "Get Gemini App\nOpens in a new window",
+            "attrs": {
+                "class": "gds-label-l microsite ng-star-inserted",
+                "href": "https://gemini.google.com/app/download"
+            }
+        },
+        {
+            "tag": "a",
+            "text": "Subscriptions\nOpens in a new window",
+            "attrs": {
+                "class": "gds-label-l microsite ng-star-inserted",
+                "href": "https://one.google.com/ai"
+            }
+        },
+        {
+            "tag": "a",
+            "text": "For Business\nOpens in a new window",
+            "attrs": {
+                "class": "gds-label-l microsite ng-star-inserted",
+                "href": "https://business.gemini.google/?utm_source=cloud_sfdc&utm_medium=et&utm_campaign=FY26-Q2-global-gemini-app&utm_content=-&utm_term=-"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "Sign in",
+            "attrs": {
+                "class": "mdc-button mat-mdc-button-base mat-badge mat-tonal-button mat-unthemed mat-badge-overlap mat-badge-above mat-badge-after mat-badge-small mat-badge-hidden ng-star-inserted"
+            }
+        },
+        {
+            "tag": "a",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-badge mat-unthemed mat-badge-overlap mat-badge-above mat-badge-after mat-badge-small mat-badge-hidden ng-star-inserted",
+                "aria-label": "New chat",
+                "href": "/app"
+            }
+        },
+        {
+            "tag": "a",
+            "text": "",
+            "attrs": {
+                "class": "action-link",
+                "href": "#"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger mavatar-sign-in-icon-button mat-unthemed lm-enabled ng-star-inserted",
+                "aria-label": "Sign in"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger mat-mdc-menu-trigger mavatar-settings-button mat-unthemed lm-enabled ng-star-inserted",
+                "aria-label": "Settings"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "You said\n\ntest\n\nGemini said",
+            "attrs": {
+                "id": "chat-history",
+                "class": "chat-history-scroll-container lm"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "You said\n\ntest\n\nGemini said",
+            "attrs": {
+                "id": "a7cf33349f33db47",
+                "class": "conversation-container message-actions-hover-boundary ng-star-inserted"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "You said\n\ntest",
+            "attrs": {
+                "id": "user-query-content-0",
+                "class": "query-content ng-star-inserted verticle-align-for-single-line-text"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-badge mat-unthemed mat-badge-overlap mat-badge-above mat-badge-after mat-badge-small mat-badge-hidden ng-star-inserted",
+                "aria-label": "Copy prompt"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-badge mat-unthemed mat-badge-overlap mat-badge-above mat-badge-after mat-badge-small mat-badge-hidden mat-mdc-button-disabled ng-star-inserted",
+                "aria-label": "Edit"
+            }
+        },
+        {
+            "tag": "message-content",
+            "text": "",
+            "attrs": {
+                "id": "message-content-id-r_a7cf33349f33db47",
+                "class": "ng-star-inserted"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "",
+            "attrs": {
+                "id": "model-response-message-contentr_a7cf33349f33db47",
+                "class": "markdown markdown-main-panel animate tutor-markdown-rendering enable-luminous-fast-follows stronger enable-updated-hr-color"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-badge mat-unthemed mat-badge-overlap mat-badge-above mat-badge-after mat-badge-small mat-badge-hidden ng-star-inserted",
+                "aria-label": "Upload & tools"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "Flash",
+            "attrs": {
+                "class": "mdc-button mat-mdc-button-base input-area-switch mat-mdc-button mat-unthemed",
+                "type": "button",
+                "aria-label": "Open mode picker, currently Flash"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-badge mat-unthemed mat-badge-overlap mat-badge-above mat-badge-after mat-badge-small mat-badge-hidden ng-star-inserted",
+                "aria-label": "Microphone"
+            }
+        },
+        {
+            "tag": "button",
+            "text": "",
+            "attrs": {
+                "class": "mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-badge mat-unthemed mat-badge-overlap mat-badge-above mat-badge-after mat-badge-small mat-badge-hidden ng-star-inserted",
+                "aria-label": "Stop response"
+            }
+        },
+        {
+            "tag": "script",
+            "text": "",
+            "attrs": {
+                "id": "base-js"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "",
+            "attrs": {
+                "id": "cdk-live-announcer-0",
+                "class": "cdk-live-announcer-element cdk-visually-hidden"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "",
+            "attrs": {
+                "id": "cdk-describedby-message-ng-1-2",
+                "role": "tooltip"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "",
+            "attrs": {
+                "id": "cdk-describedby-message-ng-1-7",
+                "role": "tooltip"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "",
+            "attrs": {
+                "id": "cdk-describedby-message-ng-1-8",
+                "role": "tooltip"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "",
+            "attrs": {
+                "id": "cdk-describedby-message-ng-1-9",
+                "role": "tooltip"
+            }
+        },
+        {
+            "tag": "div",
+            "text": "",
+            "attrs": {
+                "id": "cdk-describedby-message-ng-1-10",
+                "role": "tooltip"
+            }
+        }
+    ]
+}

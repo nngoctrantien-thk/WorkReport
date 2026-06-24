@@ -1122,3 +1122,586 @@ telegram.error.BadRequest: Text is too long
 2026-06-24 08:52:29,672 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
 2026-06-24 08:53:44,992 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
 2026-06-24 08:53:45,442 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:56:54,204 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:56:54,650 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:57:39,388 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:57:39,695 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:58:44,581 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:58:45,006 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:59:11,653 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:59:12,138 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:01:58,990 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:01:59,354 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:03:23,119 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:03:23,593 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:09:21,203 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:09:21,702 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:09:53,137 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:09:53,687 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:11:20,722 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:11:21,341 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:14:48,518 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:14:48,993 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:15:58,446 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:15:59,251 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:20:01,919 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:20:02,396 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:20:27,090 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:20:27,695 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:20:45,648 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:20:45,924 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:23:51,618 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:23:52,029 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:24:25,396 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:24:25,989 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:24:58,767 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:24:59,046 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:25:14,966 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'Chatwork' thành công.
+2026-06-24 09:33:12,606 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:33:14,371 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'SmartActionOnWindowsAppActivity.py - WorkReport - Visual Studio Code' thành công.
+2026-06-24 09:34:37,203 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:34:49,843 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'Chatwork' thành công.
+2026-06-24 09:37:37,248 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:40:01,819 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:41:33,187 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:44:23,668 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:45:25,318 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:46:15,372 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:46:52,680 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:47:20,736 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:49:25,877 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:52:53,305 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:53:58,813 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:55:01,475 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:55:32,802 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 09:58:15,166 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:00:39,146 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:05:49,412 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:08:00,998 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:08:23,397 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:09:31,565 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:11:30,282 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:14:34,614 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:19:20,847 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:20:27,050 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:21:38,751 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:23:13,016 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:26:16,978 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:27:40,852 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:32:35,131 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:33:05,241 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:33:39,526 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:36:26,033 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:36:39,305 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:37:21,007 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:40:14,930 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:41:27,340 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:42:53,414 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:43:23,515 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:43:24,158 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:43:53,159 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:44:50,605 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:47:51,310 [CRITICAL] telegram.ext.Application : Fetching updates was aborted due to KeyboardInterrupt(). Suppressing exception to ensure graceful shutdown.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 673, in stop
+    self.__update_fetcher_task.result()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 1233, in _update_fetcher
+    await self.__update_fetcher()
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 1229, in __update_fetcher
+    await self.__process_update_wrapper(update)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 1244, in __process_update_wrapper
+    await self._update_processor.process_update(update, self.process_update(update))
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_baseupdateprocessor.py", line 171, in process_update
+    await self.do_process_update(update, coroutine)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_baseupdateprocessor.py", line 196, in do_process_update
+    await coroutine
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\Downloads\WorkReport\service\TelegramService.py", line 40, in handler
+    response = TelegramCommandModel.execute(text)
+  File "C:\Users\pc\Downloads\WorkReport\models\TelegramCommandModel.py", line 61, in execute
+    action = GeminiModel.detect_activity(text_str)
+  File "C:\Users\pc\Downloads\WorkReport\models\GeminiModel.py", line 63, in detect_activity
+    response = client.models.generate_content(
+        model=model_name,
+        contents=prompt
+    )
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\google\genai\models.py", line 6488, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=parsed_config_to_call
+    )
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\google\genai\models.py", line 4916, in _generate_content
+    response = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\google\genai\_api_client.py", line 1618, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\google\genai\_api_client.py", line 1411, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\tenacity\__init__.py", line 393, in <lambda>
+    self._add_action_func(lambda rs: rs.outcome.result())
+                                     ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\concurrent\futures\_base.py", line 443, in result
+    return self.__get_result()
+           ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\concurrent\futures\_base.py", line 395, in __get_result
+    raise self._exception
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\google\genai\_api_client.py", line 1387, in _request_once
+    response = self._httpx_client.send(httpx_request, stream=stream)  # type: ignore[union-attr]
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+        request,
+    ...<2 lines>...
+        history=[],
+    )
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+        request,
+        follow_redirects=follow_redirects,
+        history=history,
+    )
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+        pool_request.request
+    )
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_sync\connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_sync\http11.py", line 136, in handle_request
+    raise exc
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_sync\http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_sync\http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_sync\http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+        self.READ_NUM_BYTES, timeout=timeout
+    )
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_backends\sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1285, in recv
+    return self.read(buflen)
+           ~~~~~~~~~^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\ssl.py", line 1140, in read
+    return self._sslobj.read(len)
+           ~~~~~~~~~~~~~~~~~^^^^^
+KeyboardInterrupt
+2026-06-24 10:54:57,842 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:55:00,127 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:55:49,342 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:55:49,842 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:55:53,615 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:55:53,742 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:57:15,233 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:57:15,710 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:57:16,981 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 10:57:19,188 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{last_output}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 10:57:19,189 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 10:57:19,190 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 10:57:25,795 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 10:58:24,029 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:58:24,506 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:58:25,864 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 10:58:28,033 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity.url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 10:58:28,033 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 10:58:28,034 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 10:58:35,845 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 10:58:41,529 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:58:41,821 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:59:57,214 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 10:59:57,828 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:00:01,717 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:00:02,062 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:00:37,664 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:00:38,259 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:00:42,684 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:00:42,836 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:05:00,017 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:05:00,510 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:05:02,290 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:05:04,646 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_from_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:05:04,647 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:05:04,648 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:05:10,177 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:08:49,780 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:08:50,409 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:08:51,718 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:08:55,215 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{{GetChromeTabUrlActivity.url}}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:08:55,216 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:08:55,217 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:09:02,421 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:09:59,368 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:09:59,851 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:10:01,543 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:10:06,290 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity_output}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:10:06,291 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:10:06,292 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:10:10,595 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:10:46,510 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:10:46,962 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:10:48,486 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:10:51,256 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity.url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:10:51,257 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:10:51,257 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:10:56,646 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:12:18,105 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:12:18,687 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:15:18,903 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:15:19,346 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:15:50,799 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:15:51,394 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:16:04,449 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:16:04,728 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:11,231 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:11,813 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:16,190 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:16,405 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:21,439 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:21,590 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:26,461 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:26,648 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:54,966 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:56,116 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:19:57,900 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:20:36,966 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity.url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:20:36,967 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:20:36,967 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:20:42,951 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:24:24,310 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:24:24,988 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:24:26,544 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:24:29,191 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_from_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:24:29,191 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:24:29,192 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:24:35,510 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:25:18,967 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:25:19,411 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:25:21,013 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:25:24,193 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:25:24,193 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:25:24,193 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:25:30,160 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:25:34,789 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 11:26:20,936 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:26:21,542 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:26:23,146 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:26:24,885 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_from_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:26:27,021 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 11:27:38,477 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:27:38,949 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:27:40,863 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:27:42,343 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_from_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:27:44,612 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 11:27:51,453 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 11:28:28,332 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:28:28,812 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:28:30,173 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:28:35,253 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 11:28:35,254 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity.url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:28:37,931 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 11:29:35,777 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:29:36,403 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:30:19,241 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:30:19,783 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:30:21,653 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:30:24,359 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 11:30:24,360 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{{context.last_result}}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:30:26,381 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 11:32:45,350 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:32:46,592 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:32:48,063 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:32:50,906 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{{context.last_result}}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:32:50,907 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:32:50,907 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:32:56,876 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:33:12,327 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:33:12,799 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:33:17,180 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:33:19,708 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_from_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:33:19,708 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:33:19,708 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:33:26,657 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:33:34,510 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:33:34,967 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:35:31,812 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:35:32,253 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:35:33,851 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:35:36,567 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity.url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:35:36,567 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://aistudio.google.com/rate-limit?timeRange=last-28-days&project=gen-lang-client-0179113218
+2026-06-24 11:35:36,567 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://aistudio.google.com/rate-limit?timeRange=last-28-days&project=gen-lang-client-0179113218
+2026-06-24 11:35:41,731 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://aistudio.google.com/rate-limit?timeRange=last-28-days&project=gen-lang-client-0179113218
+2026-06-24 11:35:47,489 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 11:36:17,125 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:36:17,334 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:36:19,019 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:36:22,270 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 11:36:22,270 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_from_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:36:25,119 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 11:36:31,178 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 11:37:25,949 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:37:26,328 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:37:29,618 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:37:32,634 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 11:37:32,634 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_of_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:37:34,702 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 11:37:41,364 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 11:39:17,782 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:39:18,203 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:39:21,531 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:39:25,676 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_of_GetChromeTabUrlActivity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:39:25,677 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:39:25,678 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:39:30,858 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:39:37,069 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:39:37,464 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:41:22,646 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:41:23,220 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:41:30,226 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:41:34,875 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{url_from_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:41:34,876 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:41:34,876 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:41:40,489 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:43:15,389 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:43:15,851 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:43:19,372 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:43:23,781 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_of_GetChromeTabUrlActivity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:43:23,782 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:43:23,782 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:43:29,431 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:43:37,164 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:43:37,447 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:51:09,134 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:51:09,601 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:51:13,063 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:51:17,425 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_of_previous_activity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:51:17,425 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:51:17,426 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:51:23,793 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:51:29,693 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:51:30,231 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:55:09,656 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:55:10,165 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:55:13,614 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:55:17,912 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{url_from_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:55:17,912 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:55:17,913 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:55:25,150 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:57:07,500 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:57:07,990 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:57:13,632 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 11:57:17,941 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{output_from_GetChromeTabUrlActivity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 11:57:17,941 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:57:17,941 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:57:25,434 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 11:57:31,101 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 11:57:31,606 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 12:00:45,542 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 12:00:45,982 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 12:00:49,415 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 12:00:53,747 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_of_GetChromeTabUrlActivity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 12:00:53,747 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 12:00:53,748 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 12:00:59,277 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 12:01:05,737 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 12:01:06,020 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 12:04:45,520 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 12:04:46,143 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 12:04:49,130 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 12:04:55,758 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: There is no active desktop required for moving mouse cursor!
+
+2026-06-24 12:04:55,759 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{prev_result}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 12:04:55,860 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 12:05:01,238 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 12:05:06,313 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: (2, 'SetCursorPos', 'The system cannot find the file specified.')
+2026-06-24 13:05:07,760 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:05:09,859 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:05:13,176 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:05:17,059 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_of_previous_step}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:05:17,060 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://localmeneth.qzin.jp/d1t1shoptest4/
+2026-06-24 13:05:17,060 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://localmeneth.qzin.jp/d1t1shoptest4/
+2026-06-24 13:05:34,916 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://localmeneth.qzin.jp/d1t1shoptest4/
+2026-06-24 13:05:41,357 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:06:54,525 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:06:56,236 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:07:01,634 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:07:06,517 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 13:07:06,517 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{url_từ_bước_trước}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:07:08,987 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 13:07:15,114 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:08:39,357 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:08:40,287 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:08:43,860 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:08:50,672 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 13:08:53,469 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:08:53,470 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{latest_url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:08:55,903 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 13:09:02,249 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:10:43,501 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:10:44,586 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:10:47,604 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:10:56,041 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:10:56,041 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{LAST_RESULT}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:10:56,041 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:10:56,043 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:11:03,202 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:11:08,741 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:14:09,432 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:14:09,863 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:14:14,460 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:14:23,519 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:14:23,520 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{url_from_GetChromeTabUrlActivity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:14:23,520 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:14:23,521 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:14:32,201 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:15:27,739 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:15:28,217 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:15:31,549 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:15:37,475 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 13:15:40,137 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:15:40,138 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{last_result}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:15:43,264 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 13:15:50,707 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:16:41,561 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:16:41,983 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:16:46,294 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:16:52,497 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 13:16:56,184 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:16:56,184 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{last_result}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:16:59,216 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 13:17:08,108 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:18:42,399 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:18:42,864 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:18:46,200 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:18:51,325 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{prev_result}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:18:51,325 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:18:51,326 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:18:57,064 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:19:02,199 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:19:02,698 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:25:29,073 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:25:29,539 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:25:32,837 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:25:41,552 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:25:41,552 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{URL_LẤY_ĐƯỢC}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:25:41,552 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:25:41,553 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:25:46,808 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:25:51,973 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:27:45,967 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:27:46,590 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:27:50,549 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:27:58,401 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:27:58,402 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{LAST_RESULT}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:27:58,402 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:27:58,404 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:28:04,432 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:28:09,656 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:33:12,394 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:33:12,775 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:33:16,193 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:33:25,604 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:33:25,604 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{url_from_GetChromeTabUrlActivity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:33:25,604 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:33:25,605 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:33:30,423 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:33:35,794 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:35:19,551 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:35:20,110 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:35:24,024 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:35:31,984 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:35:31,985 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com
+2026-06-24 13:35:37,300 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com
+2026-06-24 13:35:42,978 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:36:29,122 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:36:29,689 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:36:35,930 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:36:41,418 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 13:36:44,250 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:36:44,250 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{last_result}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:36:47,428 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 13:36:54,029 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:37:02,662 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:37:03,508 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:37:21,948 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:37:24,251 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:37:27,711 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:37:33,087 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 13:37:35,686 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:37:35,687 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{url_from_GetChromeTabUrlActivity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:37:38,644 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 13:37:45,163 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:38:05,221 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:38:06,350 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:38:12,571 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:38:17,937 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 13:38:20,902 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:38:20,902 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{result_from_GetChromeTabUrlActivity}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:38:24,046 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 13:38:30,508 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:39:11,575 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:39:12,138 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:39:15,645 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:39:24,009 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:39:24,010 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{last_result}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:39:24,010 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:39:24,011 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:39:30,537 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:44:34,252 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:44:34,638 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:44:37,592 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:44:44,986 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:44:44,987 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{last_url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:44:44,987 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:44:44,988 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:44:50,779 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:47:57,974 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:47:58,347 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:48:01,468 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:48:09,619 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:48:09,620 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{last_result}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:48:09,620 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:48:09,621 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:48:16,279 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://gemini.google.com/app/eba5af47dfeb2637?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=22165684207&gbraid=0AAAAApk5BhmOkxa3QiPg13RXDsRScPQwE&gclid=CjwKCAjw5NvPBhAoEiwA_2egfiTDReb4H-4yIHgofrjpX61flcq1-UgFqf2e9QDjJ3e6hvpSlQcJJhoCe10QAvD_BwE
+2026-06-24 13:48:18,657 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:48:18,970 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:58:01,541 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:58:01,990 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:58:46,363 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:58:46,967 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:58:50,388 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: Specified clipboard format is not available
+2026-06-24 13:59:44,416 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:59:44,685 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 13:59:46,388 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 13:59:53,057 [ERROR] service.ChromeManager : [ChromeManager] Lỗi nghiêm trọng khi bóc tách URL bằng phím tắt UI: Specified clipboard format is not available
+2026-06-24 13:59:53,057 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity.url}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 13:59:56,149 [WARNING] service.ChromeManager : [ChromeManager] Mở New Tab trống do không tìm thấy URL hợp lệ trong chuỗi luồng.
+2026-06-24 14:00:23,051 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 14:00:25,295 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 14:00:35,585 [INFO] service.ChromeManager : [ChromeManager] Cổng Debug 9222 đóng hoặc thuộc về Edge. Nhảy thẳng xuống Tầng 3 UI Automation.
+2026-06-24 14:00:39,969 [WARNING] service.ChromeManager : [ChromeManager] Phát hiện chuỗi template lỗi: '{GetChromeTabUrlActivity_output}'. Tiến hành hủy bỏ để ép lấy từ Context.
+2026-06-24 14:00:39,970 [INFO] service.ChromeManager : [ChromeManager] Đã lấy URL thành công từ bộ nhớ RAM Context: https://ap-northeast-1.console.aws.amazon.com/codesuite/codecommit/repositories/qzin_jp/pull-requests/27968/changes?region=ap-northeast-1#
+2026-06-24 14:00:39,970 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://ap-northeast-1.console.aws.amazon.com/codesuite/codecommit/repositories/qzin_jp/pull-requests/27968/changes?region=ap-northeast-1#
+2026-06-24 14:00:47,842 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://ap-northeast-1.console.aws.amazon.com/codesuite/codecommit/repositories/qzin_jp/pull-requests/27968/changes?region=ap-northeast-1#
+2026-06-24 14:00:47,859 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 14:00:49,737 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
