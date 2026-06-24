@@ -32,14 +32,19 @@ class TelegramService:
         print(f"User: {text}")
 
         screenshot_path = None
+        file_path = None
+        send_as_file = False
+        
         try:
-            # Chạy toàn bộ chuỗi workflow (Open Browser -> Summarize -> Screenshot)
+            # Chạy toàn bộ chuỗi workflow (Open Browser -> Summarize -> Screenshot hoặc Print ID)
             response = TelegramCommandModel.execute(text)
 
             # Nếu kết quả trả về là một dict (chuỗi các bước chạy thành công)
             if isinstance(response, dict):
-                # Lấy đường dẫn ảnh được lưu từ ScreenshotActivity
+                # Lấy các đường dẫn tài nguyên nếu có
                 screenshot_path = response.get("screenshot_path")
+                file_path = response.get("telegram_file_path")
+                send_as_file = response.get("telegram_send_as_file", False)
 
             # Định dạng kết quả chữ (ví dụ: nội dung tóm tắt) để chuẩn bị gửi
             message = TelegramFormatter.format(response)
@@ -48,10 +53,51 @@ class TelegramService:
             print(e)
             message = f"❌ Hệ thống gặp lỗi: {str(e)}"
 
-        # 1. GỬI TIN NHẮN CHỮ TRƯỚC: Gửi kết quả tóm tắt hoặc thông báo lỗi cho User
-        await update.message.reply_text(message)
+        # =================================================================
+        # 1. XỬ LÝ GỬI TIN NHẮN CHỮ HOẶC FILE VĂN BẢN (CHỐNG LỖI 413)
+        # =================================================================
+        
+        # Trường hợp A: Có lệnh ép gửi bằng file từ Activity quét ID
+        if send_as_file and file_path and os.path.exists(str(file_path)):
+            try:
+                with open(file_path, 'rb') as doc_file:
+                    await update.message.reply_document(
+                        document=doc_file,
+                        filename=os.path.basename(file_path),
+                        caption="🤖 Cấu trúc ID chi tiết của ứng dụng bạn yêu cầu đây nhé!"
+                    )
+                # Dọn dẹp file text tạm trên ổ cứng sau khi upload thành công
+                os.remove(file_path)
+                print(f"Đã gửi file cấu trúc và dọn dẹp: {file_path}")
+            except Exception as file_err:
+                print(f"Lỗi gửi file cấu trúc: {file_err}")
+                await update.message.reply_text(f"⚠️ Gặp lỗi khi tải file ID lên Telegram: {str(file_err)}")
+                
+        else:
+            # Trường hợp B: Tin nhắn văn bản bình thường nhưng độ dài vượt biên (> 4000 ký tự)
+            if message and len(message) > 4000:
+                try:
+                    fallback_file_path = "long_response_output.txt"
+                    with open(fallback_file_path, "w", encoding="utf-8") as f:
+                        f.write(message)
+                        
+                    with open(fallback_file_path, "rb") as doc_file:
+                        await update.message.reply_document(
+                            document=doc_file,
+                            filename="ket_qua_chi_tiet.txt",
+                            caption="📝 Kết quả phản hồi quá dài, hệ thống tự động chuyển đổi thành file để bảo vệ luồng tin nhắn."
+                        )
+                    os.remove(fallback_file_path)
+                except Exception as fallback_err:
+                    print(f"Lỗi tầng bảo vệ text dài: {fallback_err}")
+                    await update.message.reply_text(f"❌ Kết quả quá dài và lỗi phát sinh khi tạo file cứu hộ: {str(fallback_err)}")
+            else:
+                # Tin nhắn ngắn an toàn, gửi như bình thường
+                await update.message.reply_text(message)
 
-        # 2. GỬI ẢNH SAU: Nếu tìm thấy đường dẫn ảnh và file đó thực sự tồn tại trên ổ cứng
+        # =================================================================
+        # 2. GỬI ẢNH SCREENSHOT (Nếu có)
+        # =================================================================
         if screenshot_path and os.path.exists(str(screenshot_path)):
             try:
                 # Mở file dưới dạng binary ('rb') và gửi qua reply_photo

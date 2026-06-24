@@ -720,3 +720,405 @@ Stacktrace:
 2026-06-23 17:00:41,665 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
 2026-06-23 17:00:43,397 [INFO] service.ChromeManager : [ChromeManager] URL sau khi được lọc sạch rác chữ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
 2026-06-23 17:00:48,393 [INFO] service.ChromeManager : [ChromeManager] Trình duyệt kích hoạt thành công tới địa chỉ: https://work-report.thk-hd-hn.vn/report?team_id=2&user_id=&start_date=2026-06-23&end_date=2026-06-23
+2026-06-23 17:04:53,511 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:04:53,918 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:04:55,528 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'Windows Default Lock Screen' thành công.
+2026-06-23 17:05:32,015 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:05:32,477 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:06:14,755 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:06:15,047 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:06:39,872 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:06:40,328 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:06:42,032 [INFO] service.ChromeManager : [ChromeManager] Chụp ảnh cửa sổ active 'Windows Default Lock Screen' thành công.
+2026-06-23 17:07:02,397 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:07:02,704 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:07:35,612 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:07:35,844 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-23 17:07:44,651 [ERROR] service.ChromeManager : [ChromeManager] Lỗi cào text bằng UI Automation: There is no active desktop required for moving mouse cursor!
+
+2026-06-23 17:07:44,657 [ERROR] service.ChromeManager : [ChromeManager] Hạ tầng chụp ảnh OS gặp lỗi: screen grab failed
+2026-06-24 08:11:37,761 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:12:25,036 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:17:05,186 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:22:44,370 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:26:20,965 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:26:21,411 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:28:11,450 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:28:11,880 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:28:43,113 [ERROR] telegram.ext.Application : No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_transports\default.py", line 394, in handle_async_request
+    resp = await self._pool.handle_async_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_async\connection_pool.py", line 256, in handle_async_request
+    raise exc from None
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_async\connection_pool.py", line 236, in handle_async_request
+    response = await connection.handle_async_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        pool_request.request
+        ^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_async\connection.py", line 103, in handle_async_request
+    return await self._connection.handle_async_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_async\http11.py", line 136, in handle_async_request
+    raise exc
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_async\http11.py", line 106, in handle_async_request
+    ) = await self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_async\http11.py", line 177, in _receive_response_headers
+    event = await self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_async\http11.py", line 217, in _receive_event
+    data = await self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        self.READ_NUM_BYTES, timeout=timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_backends\anyio.py", line 32, in read
+    with map_exceptions(exc_map):
+         ~~~~~~~~~~~~~~^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_httpxrequest.py", line 279, in do_request
+    res = await self._client.request(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 1540, in request
+    return await self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 1629, in send
+    response = await self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 1657, in _send_handling_auth
+    response = await self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 1694, in _send_handling_redirects
+    response = await self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_client.py", line 1730, in _send_single_request
+    response = await transport.handle_async_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_transports\default.py", line 393, in handle_async_request
+    with map_httpcore_exceptions():
+         ~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ReadTimeout
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\Downloads\WorkReport\service\TelegramService.py", line 52, in handler
+    await update.message.reply_text(message)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_message.py", line 2228, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 3150, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 1138, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 638, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 828, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 712, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 378, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 741, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_baserequest.py", line 305, in _request_wrapper
+    code, payload = await self.do_request(
+                    ^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_httpxrequest.py", line 296, in do_request
+    raise TimedOut from err
+telegram.error.TimedOut: Timed out
+2026-06-24 08:29:52,404 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:29:52,868 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:30:19,889 [ERROR] telegram.ext.Application : No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\Downloads\WorkReport\service\TelegramService.py", line 52, in handler
+    await update.message.reply_text(message)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_message.py", line 2228, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 3150, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 1138, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 638, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 828, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 712, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 378, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 741, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_baserequest.py", line 375, in _request_wrapper
+    raise exception
+telegram.error.NetworkError: Request Entity Too Large
+2026-06-24 08:35:13,430 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:35:13,840 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:35:42,925 [ERROR] telegram.ext.Application : No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\Downloads\WorkReport\service\TelegramService.py", line 52, in handler
+    await update.message.reply_text(message)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_message.py", line 2228, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 3150, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 1138, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 638, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 828, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 712, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 378, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 741, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_baserequest.py", line 375, in _request_wrapper
+    raise exception
+telegram.error.BadRequest: Text is too long
+2026-06-24 08:35:42,947 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:35:43,327 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:36:09,117 [ERROR] telegram.ext.Application : No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\pc\Downloads\WorkReport\service\TelegramService.py", line 52, in handler
+    await update.message.reply_text(message)
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_message.py", line 2228, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 3150, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 1138, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 638, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 828, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 712, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\ext\_extbot.py", line 378, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\_bot.py", line 741, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\pc\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\telegram\request\_baserequest.py", line 375, in _request_wrapper
+    raise exception
+telegram.error.BadRequest: Text is too long
+2026-06-24 08:37:21,148 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:37:21,581 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:43:03,740 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:43:04,225 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:47:20,113 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:47:20,535 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:48:11,604 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:48:11,975 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:49:50,957 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:49:51,407 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:50:43,850 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:50:44,408 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:52:29,234 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:52:29,672 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:53:44,992 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
+2026-06-24 08:53:45,442 [INFO] google_genai.models : AFC is enabled with max remote calls: 10.
